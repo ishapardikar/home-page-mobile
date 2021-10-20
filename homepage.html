@@ -85,7 +85,7 @@
   <main>
     <section>
       <div class="box">
-        <img src="Images/Budget/6i.jpeg" class="float-start" alt="6i" width="150" height="236">
+        <img src="6i.jpeg" class="float-start" alt="6i" width="150" height="236">
         <br>
         <p><b>Samsung a4 </b></p>
         <p>
@@ -95,7 +95,7 @@
         <button type="button" class="btn btn-primary btn-sm">Add to cart </button>
       </div>
       <div class="box">
-        <img src="Images/Budget/c11.jpeg" class="float-start" alt="c11" width="150" height="236">
+        <img src="c11.jpeg" class="float-start" alt="c11" width="150" height="236">
         <br>
         <p style="color: rgb(0, 0, 0);"><b>lenovo </b></p>
         <p>
@@ -105,7 +105,7 @@
         <button type="button" class="btn btn-primary btn-sm">Add to cart </button>
       </div>
       <div class="box">
-        <img src="Images/Budget/F12.jpeg" class="float-start" alt="F12" width="150" height="236">
+        <img src="F12.jpeg" class="float-start" alt="F12" width="150" height="236">
         <br>
         <p style="color: rgb(0, 0, 0);"><b>F12 </b></p>
         <p>
@@ -116,7 +116,7 @@
       </div>
       <div class="box">
         <div class="mt-5">
-          <img src="Images/Budget/F12.jpeg" class="float-start" alt="F12" width="150" height="236">
+          <img src="F12.jpeg" class="float-start" alt="F12" width="150" height="236">
           <br>
           <p style="color: rgb(0, 0, 0);"><b>F12 </b></p>
           <p>
@@ -127,7 +127,7 @@
         </div>
       </div>
       <div class="box mt-5">
-        <img src="Images/Budget/c11.jpeg" class="float-start" alt="c11" width="150" height="236">
+        <img src="c11.jpeg" class="float-start" alt="c11" width="150" height="236">
         <br>
         <p style="color: rgb(0, 0, 0);"><b>lenovo </b></p>
         <p>
@@ -137,7 +137,7 @@
         <button type="button" class="btn btn-primary btn-sm">Add to cart </button>
       </div>
       <div class="box mt-5">
-        <img src="Images/Budget/F12.jpeg" class="float-start" alt="F12" width="150" height="236">
+        <img src="F12.jpeg" class="float-start" alt="F12" width="150" height="236">
         <br>
         <p style="color: rgb(0, 0, 0);"><b>F12 </b></p>
         <p>
